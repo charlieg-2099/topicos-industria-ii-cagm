@@ -111,7 +111,7 @@ Los archivos de configuración Geant4 (`.mac`) se generaron con los siguientes p
 /run/beamOn 1000
 ```
 
-Archivos disponibles en: [`tarea5_cagm/mac/`](mac/)
+Archivos disponibles en: [`mac/`](./mac/)
 
 ### Script de Medición
 
