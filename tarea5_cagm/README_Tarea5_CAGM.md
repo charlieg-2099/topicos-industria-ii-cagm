@@ -21,7 +21,7 @@
 
 ---
 
-## 🎯 Resumen Ejecutivo
+## Resumen Ejecutivo 🎯  
 
 Este documento presenta un análisis exhaustivo de los recursos computacionales necesarios para ejecutar el pipeline completo de procesamiento de datos de simulaciones WCSim. Se evaluaron **cinco cajas de procesamiento** (4, 5, 6, 8 y 9) utilizando **tres tipos de partículas** (e⁻, μ⁻, γ) con **1,000 eventos por partícula** como base de medición.
 
