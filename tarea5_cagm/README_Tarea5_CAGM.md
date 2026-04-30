@@ -1,3 +1,4 @@
+
 # Análisis de Capacidades Computacionales para Simulaciones WCSim
 
 > **Evaluación de recursos de procesamiento y almacenamiento para el pipeline de análisis de eventos de física de partículas utilizando WCSim en arquitectura Apple Silicon**
@@ -9,7 +10,7 @@
 
 ---
 
-## 📋 Tabla de Contenidos
+## Tabla de Contenidos
 
 1. [Resumen Ejecutivo](#resumen-ejecutivo)
 2. [Especificaciones del Sistema](#especificaciones-del-sistema)
@@ -21,7 +22,7 @@
 
 ---
 
-## Resumen Ejecutivo 🎯  
+## Resumen Ejecutivo
 
 Este documento presenta un análisis exhaustivo de los recursos computacionales necesarios para ejecutar el pipeline completo de procesamiento de datos de simulaciones WCSim. Se evaluaron **cinco cajas de procesamiento** (4, 5, 6, 8 y 9) utilizando **tres tipos de partículas** (e⁻, μ⁻, γ) con **1,000 eventos por partícula** como base de medición.
 
@@ -34,7 +35,7 @@ Este documento presenta un análisis exhaustivo de los recursos computacionales 
 
 ---
 
-## 💻 Especificaciones del Sistema
+## Especificaciones del Sistema
 
 ### Hardware
 
@@ -74,7 +75,7 @@ Durante las mediciones se utilizaron dos configuraciones:
 
 ---
 
-## 🔬 Metodología
+## Metodología
 
 ### Diseño Experimental
 
@@ -125,7 +126,7 @@ El script registra automáticamente tiempo y tamaño en `results_cagm.csv`.
 
 ---
 
-## 📊 Resultados Experimentales
+## Resultados Experimentales
 
 ### Datos Completos (1,000 eventos)
 
@@ -172,7 +173,7 @@ El script registra automáticamente tiempo y tamaño en `results_cagm.csv`.
 
 ---
 
-## 📈 Análisis de Proyecciones
+## Análisis de Proyecciones
 
 ### Escalamiento a 1,000,000 de Eventos
 
@@ -227,7 +228,7 @@ Aplicando un factor de escala lineal de **×1,000** a las mediciones base:
 
 ---
 
-## 🔍 Conclusiones
+## Conclusiones
 
 ### Hallazgos Clave
 
@@ -286,7 +287,7 @@ El uso de **Apple Silicon (M1)** con emulación presenta:
 
 ---
 
-## 📚 Anexos
+## Anexos
 
 ### A. Comandos de Ejecución
 
@@ -348,7 +349,7 @@ tarea5_cagm/
 
 ---
 
-## 📞 Contacto
+## Contacto
 
 **Carlos Guzmán**  
 Maestría en Ciencias Aplicadas  
