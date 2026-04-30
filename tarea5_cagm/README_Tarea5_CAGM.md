@@ -3,10 +3,12 @@
 
 > **Evaluación de recursos de procesamiento y almacenamiento para el pipeline de análisis de eventos de física de partículas utilizando WCSim en arquitectura Apple Silicon**
 
-**Autor:** Carlos Guzmán  
-**Institución:** Maestría en Ciencias Aplicadas - Tópicos de Industria  
+**Autor:** Carlos A. Guzmán Montes
+**Código:** 325072405  
+**Materia:** Maestría en Ciencias Aplicadas - Tópicos de Industria  
 **Fecha:** Abril 2026  
-**Sistema:** Mac M1 (32GB RAM) con Rancher Desktop
+**Sistema:** Mac M1 (32GB RAM) con Rancher Desktop 
+**Rancher ** Memory 20 GBs CPUs 6 Mount Type virtiofs Emulation VZ (Apple virtualization Framework)
 
 ---
 
@@ -351,7 +353,8 @@ tarea5_cagm/
 
 ## Contacto
 
-**Carlos Guzmán**  
+**Carlos Guzmán** 
+**Correo** carlos.guzman@academicos.udg.mx
 Maestría en Ciencias Aplicadas  
 Tópicos de Industria  
 Abril 2026
