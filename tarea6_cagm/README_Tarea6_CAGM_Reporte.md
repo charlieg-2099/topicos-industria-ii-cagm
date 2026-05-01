@@ -13,7 +13,7 @@
 ---
 
 **Autor:** Carlos Guzmán  
-**Institución:** Maestría en Ciencias Aplicadas  
+**Institución:** Maestría en Computo Aplicado  
 **Curso:** Tópicos de Industria  
 **Fecha:** Abril 2026  
 **Versión:** 1.0
