@@ -11,7 +11,7 @@
 
 ---
 
-**Autor:** Carlos Guzmán | **Institución:** Maestría en Ciencias Aplicadas  
+**Autor:** Carlos Guzmán | **Institución:** Maestría en Computo Aplicado 
 **Curso:** Tópicos de Industria | **Fecha:** Abril 2026
 
 [🎯 Resultados](#-resultados-clave) • [⚡ Ejecución](#-ejecucion-del-pipeline) • [📊 Métricas](#-metricas-de-rendimiento) • [🔧 Configuración](#-configuracion-tecnica)
