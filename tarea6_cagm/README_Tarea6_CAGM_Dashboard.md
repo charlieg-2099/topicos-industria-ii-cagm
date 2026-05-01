@@ -340,8 +340,8 @@ Todas las capturas de pantalla de la ejecución real están disponibles en:
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  SNAKEMAKE PIPELINE EXECUTION - 300 ARCHIVOS                    ║
-║  Apple M1 Max | 2 Cores | snakemake_env                        ║
+║  SNAKEMAKE PIPELINE EXECUTION - 300 ARCHIVOS                     ║
+║  Apple M1 Max | 2 Cores | snakemake_env                          ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 [Wed Apr 30 21:00:12 2026] 🔄 INICIO
